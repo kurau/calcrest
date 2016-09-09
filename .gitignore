@@ -1,0 +1,5 @@
+.idea
+target
+*.iml
+.DS_Store
+wmi-pg-b2b-tests/src/main/resources/pgsql.db.properties
